@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?actionBarSize"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/tool"
+    android:elevation="2dp"
+    android:minHeight="?actionBarSize"
+    app:title="TM Coffee"
+    app:contentInsetStartWithNavigation="0dp"
+    app:titleTextColor="@color/black"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+</androidx.appcompat.widget.Toolbar>
